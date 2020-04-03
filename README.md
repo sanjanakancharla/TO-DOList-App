@@ -1,7 +1,7 @@
 
 
 It is a user friendly app for organizing your day to day tasks.
-Users can add new tasks and delete theem after completing.
+Users can add new tasks and delete them after completing.
 
 In the project directory, you can run:
 
